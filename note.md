@@ -7,3 +7,6 @@ dynabodb 複数クエリ
 cdk layer  
 TanStack  
 アカウンタビリティ  
+App Syncのパブ、サブ  
+WIF(Workload Identity Federation)  
+
