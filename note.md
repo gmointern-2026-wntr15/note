@@ -9,4 +9,5 @@ TanStack
 アカウンタビリティ  
 App Syncのパブ、サブ  
 WIF(Workload Identity Federation)  
+ポリグロット・パーシステンス  
 
