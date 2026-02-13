@@ -10,4 +10,5 @@ TanStack
 App Syncのパブ、サブ  
 WIF(Workload Identity Federation)  
 ポリグロット・パーシステンス  
+https://zenn.dev/typebase/books/trpc-introduction/viewer/1-introduction  
 
